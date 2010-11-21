@@ -1,0 +1,16 @@
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\bin\Release\RockBox-PSGroove Installer.exe
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\bin\Release\RockBox-PSGroove Installer.pdb
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\bin\Release\RockBox-PSGroove Installer.xml
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\RockBox_PSGroove_Installer.Resources.resources
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\RockBox-PSGroove Installer.exe
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\RockBox-PSGroove Installer.xml
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\RockBox-PSGroove Installer.pdb
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\RockBox_PSGroove_Installer.MHUFreeStore.resources
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\RockBox_PSGroove_Installer.RockBox_PSGroove_Installer.resources
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\RockBox_PSGroove_Installer.Installation_complete.resources
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\RockBox_PSGroove_Installer.cbl_cfg.resources
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\RockBox_PSGroove_Installer.Sansa_default.resources
+C:\Users\DanyL\Documents\Visual Studio 2010\My Project\RockBox-PSGroove Installer\RockBox-PSGroove Installer\obj\x86\Release\RockBox_PSGroove_Installer.Updater.resources
